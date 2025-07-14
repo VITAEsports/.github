@@ -1,6 +1,6 @@
 # This is the Github Page of VITA Esports
 
-## You can also check out our website here:
+## You can also check out our website here: rebuild version currently WIP
 
 ## We also have a Discord: 
 
